@@ -19,4 +19,4 @@ const markVideosAsWatched = () => {
 };
 
 expandSections();
-setTimeout(markVideosAsWatched, 2000);
+setTimeout(markVideosAsWatched, 1000);
